@@ -5,7 +5,7 @@
 
  👉 კურსის დეტალური სილაბუსი შეგიძლიათ იხილოთ აქ: [სილაბუსი](https://bit.ly/4iBYzVX)
  
- 👉 ლექტორის პროფესიულო LinkedIn პროფილი შეგიძლიათ იხილოთ აქ: [პროფილი](https://www.linkedin.com/in/lela-gabelaia-46036194/)
+ 👉 ლექტორის პროფესიულო 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 პროფილი შეგიძლიათ იხილოთ აქ: [პროფილი](https://www.linkedin.com/in/lela-gabelaia-46036194/)
 
 🐞 რას ეფუძნება კურსი❓ 
 თეორიული მასალა, ტერმინები და განმარტებები სრულად ეფუძნება ISTQB® - International Software Testing Qualifications Board 
